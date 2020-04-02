@@ -24,7 +24,7 @@ Employee_No INTEGER PK
 Birthday INTEGER
 First_Name VARCHAR
 Last_Name VARCHAR
-Gender ENUM(M,F)
+Gender VARCHAR
 Hire_Date INTEGER
 
 Titles
