@@ -1,6 +1,13 @@
+### Employee Data Analytics
 Last updated January 2026
 Data Analytics Bootcamp - SQL Assignment
 
+This project explores a historical employee dataset for a global corporation. Using PostgreSQL, I designed a relational database, loaded raw CSV files, and wrote SQL queries to answer business questions about employees, departments, salaries, and management structure.
+The project demonstrates skills in:
+-data modeling
+-database schema design
+-data cleaning and loading
+-analytical SQL querying
 
 #### Data Modeling
 
