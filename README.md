@@ -37,7 +37,7 @@ Inspected the CSVs and sketched out an ERD of the tables.
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-##Updates:
+###Updates:
 
 - **January 2026:** Renamed tables and columns to follow modern PostgreSQL best practices (lowercase `snake_case` identifiers).
 - **January 2026:** Added two new queries:
